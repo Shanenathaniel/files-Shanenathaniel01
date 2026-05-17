@@ -1,0 +1,37 @@
+header{font-size: larger;
+    background-color: rgb(117, 115, 115);
+color: rgb(255, 204, 0); 
+
+}
+body {
+    background-image: url(Flight.JPG);
+    background-size: 1292px;
+}
+.bgpic {
+    background-image: url(Garfield.jpg);
+    background-repeat: repeat;
+    background-size: 500px;
+}
+nav{
+    color: aliceblue;
+}
+.shane {
+    color: aliceblue;
+}
+.active {
+    color: rgb(220, 84, 34);
+}
+
+.shane4{
+    color: rgb(220, 84, 34)
+} 
+
+img {width: 300px
+    ;}
+    .ooty{
+        width: 453px;
+    }
+
+.mono {width: 500px;}
+
+.Madh{width: 579px;}
